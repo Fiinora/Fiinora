@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arifin Ilham</h1>
-<h3 align="center">A computer science student at Binus University that interested in software engineering</h3>
+<h3 align="center">ywdh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fiinora&label=Profile%20views&color=0e75b6&style=flat" alt="Fiinora" /> </p>
 
