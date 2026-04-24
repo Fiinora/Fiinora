@@ -1,3 +1,2 @@
-<h1 align="center">Hi 👋, I'm Arifin Ilham</h1>
-<h3 align="center">ywdh</h3>
+<h1 align="center">ywdh</h1>
 
